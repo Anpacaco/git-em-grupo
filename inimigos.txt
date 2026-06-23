@@ -7,3 +7,7 @@ Ataque:65
 --Arqueudo--
 Vida:150
 Ataque:55
+
+--Mr.Céculo--
+Vida:1000
+Ataque:90
