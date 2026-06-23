@@ -1,0 +1,5 @@
+#INIMIGOS DO JOGO
+
+--Druida--
+Vida:140
+Ataque:65
