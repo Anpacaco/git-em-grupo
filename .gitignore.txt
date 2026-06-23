@@ -2,6 +2,7 @@
 
 *.exe
 *.o
+*.hch
 
 # Arquivos de projeto do C++
 
