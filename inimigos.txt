@@ -3,3 +3,7 @@
 --Druida--
 Vida:140
 Ataque:65
+
+--Arqueudo--
+Vida:150
+Ataque:55
