@@ -1,0 +1,14 @@
+# FASES DO JOGO
+
+-Deserto comum-
+Objetivo:
+Encontrar 10 cactos
+--
+
+
+
+-Castelo do balacobaco-
+Objetivo:
+Exterminar todos os residentes
+Destronar o Rei
+--
