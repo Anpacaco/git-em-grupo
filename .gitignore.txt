@@ -1,0 +1,9 @@
+# Binários e Compilados
+
+*.exe
+*.o
+
+# Arquivos de projeto do C++
+
+*.layout
+*.depend
