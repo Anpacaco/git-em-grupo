@@ -2,7 +2,7 @@
 using namespace std;
 
 void saudacao() {
-	cout << "Bem-vindo ao sistema!" << endl;
+	cout << "Salve salve rapaziadinha" << endl;
 }
 
 void despedida(){
