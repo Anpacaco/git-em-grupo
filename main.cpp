@@ -2,11 +2,7 @@
 using namespace std;
 
 void saudacao() {
-<<<<<<< HEAD
-	cout << "Boa-tarde pessoa" << endl;
-=======
 	cout << "Salve salve rapaziadinha" << endl;
->>>>>>> defdc2c92af543a79aabe6be8ffefc010e20212c
 }
 
 void despedida(){
